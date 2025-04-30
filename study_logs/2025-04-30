@@ -1,0 +1,24 @@
+# 📅 2025-04-30 Learning Log
+
+## 📚 What I studied today
+- Studied Power BI through Geek Fujiwara’s Udemy course (completed up to Chapter 8)
+- Learned how dashboard publishing and sharing works in Power BI
+- Explored workspace usage and how to manage shared reports and permissions
+- Investigated how number formatting and data source paths affect reports
+
+## ✍️ Insights / Notes
+- Once a report is shared via Power BI Service, viewers can always access the latest data
+- Power BI Pro licenses are required per user for sharing workspaces and dashboards
+- For personal use, the desktop version is free, but issues on the cloud version aren't guaranteed support
+- If a data file’s location changes, the data source path must be manually reconnected via “Data source settings”
+- Numeric formatting needs careful attention—automatic settings may show units like “K” or “M,” which can be removed but reduce readability
+- Localization (e.g., Japanese number formats) is technically possible with configuration
+- Once a dashboard is complete, the "Publish" button becomes available, uploading the report to the selected workspace
+- A workspace is like a folder that stores `.pbix` files and datasets for web-based access
+- Permissions can be set when sharing from a workspace
+
+## 🎯 Next steps
+- Resume Udemy course from Chapter 9
+- Practice publishing a sample dashboard to a workspace
+- Explore how to localize visuals for Japanese display standards
+- Begin planning a reusable GitHub-ready dashboard template
