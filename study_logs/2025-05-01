@@ -1,0 +1,27 @@
+📅 Date
+2025-05-01
+
+📚 What I studied today
+Udemy Power BI course (Section 9 and onwards)
+
+Practiced matrix visuals and map settings
+
+Learned about tenant-level account settings and report-level permissions
+
+✍️ Insights / Notes
+Visuals can be copied and duplicated easily within reports.
+
+Some account settings are controlled at the tenant level, so changes made in Power BI Desktop might not take effect if overridden by admin settings.
+
+Map visuals can be tricky due to permission and admin management complexity.
+
+Matrix visual is effective for displaying raw Excel data in a structured format.
+
+When replacing a dataset, re-sharing with other users is not required—they will automatically see the updated version upon refresh.
+
+🎯 Next steps
+Continue with Udemy course Section 10
+
+Experiment more with different visual types (especially map and matrix)
+
+Review dataset permission settings and tenant-level behavior
