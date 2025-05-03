@@ -1,0 +1,35 @@
+📅 Date
+2025-05-03
+
+📚 What I studied today
+Udemy Power BI course (Sections 11–12)
+
+Explored themes, slicer synchronization, drillthrough pages, and custom visuals
+
+✍️ Insights / Notes
+Copilot can generate explanations for visuals automatically.
+
+Slicers can be synchronized across multiple report pages.
+
+Themes can be customized in advance. A light gray background (#D6D6D6) is a popular choice.
+
+Shadows can enhance visuals but must be set manually—theme JSON files can't handle shadow settings.
+
+If a theme doesn't apply correctly, using the “Reset to default” option can resolve the issue.
+
+From the data pane, columns can be configured to display as icons, URLs, etc. You can also choose to show only the icon for a URL.
+
+Quick measures enable creation of calculated data not available in Excel.
+
+Drillthrough pages can be created with navigation buttons that connect between pages.
+
+Third-party visuals can be imported via the custom visuals marketplace.
+
+Mastering DAX functions allows for flexible creation of custom columns and calculations.
+
+🎯 Next steps
+Try editing JSON theme files for custom styling (e.g., shadows)
+
+Practice creating drillthrough buttons and custom visuals
+
+Learn and apply more DAX functions through hands-on examples
